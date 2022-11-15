@@ -1,0 +1,4 @@
+taos_rest.spec
+build/*
+dist/*
+__pycache__/*
