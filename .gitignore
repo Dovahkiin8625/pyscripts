@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 taos_rest.spec
 build/*
 dist/*
 __pycache__/*
+
+snzb_spider/pdfs/*
+
